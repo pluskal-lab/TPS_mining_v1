@@ -30,6 +30,6 @@ Output files can be found in the folder `results/`.
 
 There are `.tsv` and `.fasta` files for individual databases containing the mined sequences.
 
-Then there are also `final.tsv` and `final.fasta` file containing all the mined sequences from all the databases.
+Then there are also `final.tsv` and `final.fasta` file containing all the mined sequences from all the databases (too large to upload to Github).
 
 To have only unique sequences, files `final_unique.tsv` and `final_unique.fasta` were created. These files were used for the phylogenetic analysis. In total, there were 191,476 sequences.
