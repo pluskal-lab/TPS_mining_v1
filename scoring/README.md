@@ -14,7 +14,7 @@ Scoring of the TPS sequences using phylogenetic analysis and knowledge about cha
 ## Distance calculation in the tree and scoring
 
 ### Distance calculation
-For all uncharacterized sequences, the distance to closest characterized sequence in the tree was calculated (sum of the lengths of the branches, i.e. the closest characterized sequence has the shortest distance). 
+For all uncharacterized sequences, the distance to closest characterized sequence in the tree was calculated (sum of the lengths of the branches, i.e. the closest characterized sequence has the lowest sum of the branch lengths). 
 
 ### Scoring
 
